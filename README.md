@@ -12,10 +12,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=32 title="VSCode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=32 title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=32 title="Windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=32 title="GitHub" />
 
 ### Interested
 
-- anime
-- animal
-- low-layer
-- reinventing the wheel
+📺 anime  
+😺 animal  
+🛰 low-layer  
+⚙ reinventing the wheel  
+
+### More info
+
+[kumavale.github.io](https://kumavale.github.io/)
