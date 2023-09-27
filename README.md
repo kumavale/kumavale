@@ -1,25 +1,5 @@
-## Hi, I'm kumavale <img src="https://media.giphy.com/media/92iPFYt9VsAYWg6SAb/giphy.gif" width="40">
+## Hi, I'm kumavale 👋
 
-*software enginner*
-
-<img src="https://media.giphy.com/media/48JQgnOAzx7TL3ZEQv/giphy.gif" align="right" height="400">
-
-### Technologies & Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=32 title="Rust" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=32 title="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=32 title="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=32 title="Vim" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=32 title="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=32 title="Linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=32 title="Windows" />
-
-### Interests
-
-- 📺 anime
-- 😺 animal
-- 🚀 low-layer
-- ⚙ reinventing the wheel
-
-### More info
-
-[kumavale.github.io](https://kumavale.github.io/)
+<p align="center">
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" height="256px"><img src="https://media.giphy.com/media/xTiQygY6HW1GjoYKFq/giphy.gif" height="256px"><img src="https://media.giphy.com/media/NqZn5kPN8VVrW/giphy.gif" height="256px">
+</p>
