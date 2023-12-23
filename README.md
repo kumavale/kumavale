@@ -1,5 +1,2 @@
-## Hi, I'm kumavale 👋
 
-<p align="center">
-<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" height="256px"><img src="https://media.giphy.com/media/xTiQygY6HW1GjoYKFq/giphy.gif" height="256px"><img src="https://media.giphy.com/media/NqZn5kPN8VVrW/giphy.gif" height="256px">
-</p>
+![girl_and_bear_in_forest](https://github.com/kumavale/kumavale/assets/29778890/368fb2a7-d35b-4c3e-bedf-c281af427ad5)
